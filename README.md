@@ -6,7 +6,7 @@ ScamShield AI is a smart web application that helps users identify potential onl
 
 ## 🎯 Objectives 
 
-* Detect scam and phishing attempts.
+* Detect scam and phishing attempts. 
 * Improve cybersecurity awareness.
 * Help users make safer online decisions.
 * Reduce the risk of online fraud.
