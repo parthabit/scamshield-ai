@@ -49,7 +49,7 @@ ScamShield AI is a smart web application that helps users identify potential onl
 
 * Email Scam Detection
 * Screenshot Analysis
-* Browser Extension
+* Browser Extension.        
 * Multi-language Support
 * Community Scam Reporting
 
