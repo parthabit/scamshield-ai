@@ -28,7 +28,7 @@ ScamShield AI is a smart web application that helps users identify potential onl
 * Google Gemini API
 * Artificial Intelligence
 * Cybersecurity Concepts
- 
+  
 ## ⚙️ How It Works
 
 1. User enters a suspicious message, email, or URL.
