@@ -23,7 +23,7 @@ ScamShield AI is a smart web application that helps users identify potential onl
 ## 🛠️ Technologies Used
 
 * HTML5 
-* CSS3
+* CSS3 
 * JavaScript
 * Google Gemini API
 * Artificial Intelligence
