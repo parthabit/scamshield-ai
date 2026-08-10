@@ -2,7 +2,7 @@
  
 ## 📖 Project Overview
 
-ScamShield AI is a smart web application that helps users identify potential online scams, phishing links, and suspicious messages. The platform uses Google's Gemini AI to analyze user input and provide security insights, helping users stay safe online.
+ScamShield AI is a smart web application that helps users identify potential  online scams, phishing links, and suspicious messages. The platform uses Google's Gemini AI to analyze user input and provide security insights, helping users stay safe online.
 
 ## 🎯 Objectives  
 
