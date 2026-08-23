@@ -37,7 +37,7 @@ ScamShield AI is a smart web application that helps users identify potential  on
 4. A risk assessment is generated.
 5. The user receives a detailed security recommendation.
 
-## 🌟 Benefits
+## 🌟 Benefits 
 
 * Fast and intelligent analysis
 * Easy to use
