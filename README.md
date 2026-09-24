@@ -16,7 +16,7 @@ ScamShield AI is a smart web application that helps users identify potential  on
 * 🔍 AI-Powered Scam Detection 
 * 🚨 Phishing Link Analysis
 * 🌐 Suspicious Website Detection 
-* ⚡ Instant Risk Assessment
+* ⚡ Instant Risk Assessment 
 * 🤖 Gemini AI Integration
 * 📱 Responsive User Interface
 
